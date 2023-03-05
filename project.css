@@ -17,8 +17,18 @@
     background-color: rgba(177, 177, 177, 0.104);
 }
 
+.shpfav {
+    position: relative;
+    height: 200px;
+    width: 250px;
+    margin-top: 5%;
+}
+
 .shopfav {
-    margin-left: 16%;
+    top: -5%;
+    position: absolute;
+    width: 250px;
+    left: 110%;
 }
 
 #headertwo {
