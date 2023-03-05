@@ -105,7 +105,7 @@ section {
 #s {
     color: #003087;
     height: 50px;
-    font-weight:bolder;
+    font-weight: bolder;
     width: 111px;
     border-radius: 25px;
     background-color: #003087;
@@ -180,10 +180,11 @@ h1 {
     width: 10%;
     border-radius: 25px;
 }
-.paypalb:hover{
+
+.paypalb:hover {
     cursor: pointer;
 }
-  
+
 .vertical {
     border-left: 1px solid black;
     height: 128px;
@@ -216,8 +217,6 @@ h1 {
     max-height: 38rem;
     max-width: 38rem;
     transform: skew(10deg)
-
-
 }
 
 .paypalfirstpic {
@@ -443,7 +442,8 @@ h1 {
     background-color: #003087;
     color: white;
 }
-.applynow:hover{
+
+.applynow:hover {
     cursor: pointer;
 }
 
@@ -455,7 +455,8 @@ h1 {
     margin-left: 66.5%;
     color: #003087;
 }
-.learnmore:hover{
+
+.learnmore:hover {
     cursor: pointer;
 }
 
@@ -510,7 +511,13 @@ h1 {
     position: relative;
 }
 
-.walmartlogo,.homedepotlogo,.dickssportinggoodslogo,.nikelogo,.sherinlogo,.sonoslogo,.bestguylogo{
+.walmartlogo,
+.homedepotlogo,
+.dickssportinggoodslogo,
+.nikelogo,
+.sherinlogo,
+.sonoslogo,
+.bestguylogo {
     cursor: pointer;
 }
 
@@ -640,7 +647,7 @@ h1 {
     font-size: 180%;
 }
 
-.donationlink:hover{
+.donationlink:hover {
     cursor: pointer;
 }
 
@@ -685,7 +692,7 @@ h1 {
     font-size: 130%;
 }
 
-.poweruplink:hover{
+.poweruplink:hover {
     cursor: pointer;
 }
 
@@ -732,7 +739,7 @@ h1 {
     font-size: 130%;
 }
 
-.nextsteplink{
+.nextsteplink {
     cursor: pointer;
 }
 
@@ -874,7 +881,7 @@ h1 {
     color: white;
 }
 
-.SendLink:hover{
+.SendLink:hover {
     cursor: pointer;
 }
 
