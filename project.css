@@ -17,6 +17,10 @@
     background-color: rgba(177, 177, 177, 0.104);
 }
 
+.shopfav {
+    font-size: 40px;
+}
+
 #headertwo {
     color: #0e7fefec;
     font-weight: bold;
