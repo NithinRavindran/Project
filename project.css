@@ -938,4 +938,7 @@ h1 {
     margin-left: 15%
 }
 
-.footertextone {}
+.footertexttwo {
+    color: #001f6c;
+    font-weight: bold;
+}
