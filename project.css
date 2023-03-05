@@ -1,0 +1,857 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Noto+Sans:wght@400;500&family=Roboto+Slab&family=Smokum&family=Tilt+Neon&family=Tilt+Prism&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Noto+Sans:wght@400;500&family=Roboto+Slab&family=Smokum&family=Tilt+Neon&family=Tilt+Prism&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Inter:wght@100&family=Merriweather&family=Noto+Sans:wght@400;500&family=Roboto+Slab&family=Smokum&family=Tilt+Neon&family=Tilt+Prism&display=swap');
+
+#header {
+    margin-top: 2px;
+    margin-left: 0%;
+    width: 100%;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0%;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 1.1rem;
+    background-color: rgba(177, 177, 177, 0.104);
+}
+
+#headertwo {
+    color: #0e7fefec;
+    font-weight: bold;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.paypalicon {
+    height: 35px;
+    width: 35px;
+    margin-left: 13%;
+    margin-top: 2px;
+}
+
+section {
+    position: relative;
+    color: #001c64;
+    margin-top: 2%;
+    font-family: 'Inter', sans-serif;
+    text-transform: initial;
+    font-size: normal;
+}
+
+.sectionthree {
+    margin-top: 2%;
+}
+
+#p {
+    margin-top: -2.2%;
+    margin-left: 18%;
+
+}
+
+#b {
+
+    margin-top: -2.7%;
+    margin-left: 26%;
+}
+
+#e {
+
+    margin-top: -2.7%;
+    margin-left: 34%;
+}
+
+#d {
+
+    margin-top: -2.7%;
+    margin-left: 43%;
+}
+
+#h {
+
+    margin-top: -2.7%;
+    margin-left: 65%;
+}
+
+.sectiontwo {
+    position: absolute;
+    color: #001c64;
+    margin-top: -3.8%;
+    margin-left: 72%;
+    font-family: 'Inter', sans-serif;
+    text-transform: initial;
+    font-size: normal;
+}
+
+#l {
+    height: 50px;
+    width: 111px;
+    border-radius: 25px;
+}
+
+#s {
+    height: 50px;
+    width: 111px;
+    border-radius: 25px;
+    background-color: #003087;
+    color: white;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 380%;
+    margin-left: 13%;
+}
+
+#paypalp {
+    margin-top: -2%;
+    margin-left: 13%;
+
+}
+
+.paypalimg {
+    margin-top: 1%;
+    margin-left: 13%;
+}
+
+.paypalc {
+    position: relative;
+    top: 40;
+    left: 0%;
+
+}
+
+.paypalinput {
+    position: absolute;
+    height: 55px;
+    width: 20%;
+    margin-top: -8.7%;
+    margin-left: 24%;
+
+}
+
+.paypald {
+    position: relative;
+    left: 24%;
+    top: -50%;
+}
+
+.paypalb {
+    position: absolute;
+    height: 50px;
+    margin-top: -5%;
+    width: 10%;
+    border-radius: 25px;
+}
+
+.vertical {
+    border-left: 1px solid black;
+    height: 128px;
+    position: absolute;
+    left: 23%;
+    top: 62%;
+}
+
+.paypale {
+    height: 100px;
+    width: 350px;
+    margin-top: -2%;
+    margin-left: 13%;
+}
+
+.paypal {
+    margin-left: 59%;
+    font-weight: 40rem;
+    margin-top: -490px;
+    background-color: #003087;
+    width: 49%;
+    height: 600px;
+    transform: skew(-10deg);
+}
+
+.img {
+    margin-top: -12%;
+    margin-left: -7%;
+    max-height: 38rem;
+    max-width: 38rem;
+    transform: skew(10deg);
+
+}
+
+.paypalfirstpic {
+    width: 58%;
+    height: 81px;
+    margin-top: -5.4%;
+    margin-left: -2%;
+    transform: skew(-10deg);
+    background-color: #ffd140;
+}
+
+.paypalsecondpic {
+    margin-left: -17.2%;
+    font-weight: 40rem;
+    margin-top: -1.3%;
+    background-color: #003087;
+    width: 71%;
+    height: 300px;
+    transform: skew(-10deg);
+}
+
+#place {
+    text-align: center;
+}
+
+.emp {
+    height: 35rem;
+    width: 35 rem;
+    margin-left: 22%;
+}
+
+#placeone {
+    font-size: 310%;
+    margin-top: -20%;
+    margin-left: 60%
+}
+
+.paypalthirdpic {
+    position: relative;
+    margin-left: 57.6%;
+    font-weight: 40rem;
+    margin-top: 18%;
+    background-color: #003087;
+    width: 55.6%;
+    height: 700px;
+    transform: skew(-10deg);
+}
+
+.paypalfourthpic {
+    margin-left: -6.5%;
+    font-weight: 40rem;
+    margin-top: 0%;
+    background-color: #003087;
+    width: 56%;
+    height: 700px;
+    transform: skew(-10deg);
+}
+
+.paypalthird {
+    margin-top: 10%;
+    margin-left: 3%;
+    max-height: 70%;
+    max-width: 85%;
+    transform: skew(10deg);
+
+}
+
+.paypalfourth {
+    position: relative;
+    margin-top: 10%;
+    margin-left: 40%;
+    max-height: 78%;
+    max-width: 90%;
+    transform: skew(10deg);
+}
+
+.text {
+    position: absolute;
+    font-size: 310%;
+    top: 320%;
+    left: 1%
+}
+
+.texttwo {
+    position: absolute;
+    font-size: 310%;
+    top: 414%;
+    left: 50%
+}
+
+.paypalsectionfourth {
+    margin-left: -5%;
+    font-weight: 40rem;
+    margin-top: 0%;
+    padding-right: 6%;
+    background-color: #ffd140;
+    height: 500px;
+    width: 180%;
+}
+
+.textthree {
+    margin-top: 1px;
+    padding: 100px 5px;
+    font-size: 300%;
+    text-align: left
+}
+
+.textfour {
+    color: #0967c4e4;
+}
+
+.textfive {
+    position: absolute;
+    left: 15%;
+    font-size: 400%;
+    text-align: center;
+}
+
+.paypalpic {
+    position: relative;
+    margin-top: 20%;
+    margin-left: 12%;
+    height: 730px;
+    max-width: 38%;
+    border-radius: 5%;
+    background-color: #0967c4e4;
+}
+
+.paypalreward {
+    position: absolute;
+    font-size: 310%;
+    top: 600%;
+    left: 43%;
+    color: #001c64
+}
+
+#paypalrewardsecond {
+    position: absolute;
+    font-weight: normal;
+    top: 630%;
+    left: 56%
+}
+
+#paypalrewardthird {
+    position: absolute;
+    top: 645%;
+    font-size: 160%;
+    left: 56%;
+    color: #0967c4e4;
+}
+
+.paypalpicsecond {
+    position: relative;
+    margin-top: 3%;
+    margin-left: 50%;
+    height: 550px;
+    max-width: 40%;
+    border-radius: 5%;
+    background-color: #0967c4e4;
+}
+
+#textsix {
+    position: absolute;
+    font-weight: normal;
+    font-size: 300%;
+    top: 710%;
+    left: 1%;
+    color: #001c64
+}
+
+.paypaltext {
+    position: absolute;
+    font-weight: normal;
+    top: 730%;
+    left: 14%
+}
+
+#paypaltextone {
+    position: absolute;
+    top: 740%;
+    font-size: 180%;
+    left: 14%;
+    color: #0967c4e4;
+}
+
+.paypalpicthird {
+    position: relative;
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 550px;
+    max-width: 40%;
+    border-radius: 5%;
+    background-color: #0967c4e4;
+}
+
+.textseven {
+    position: absolute;
+    font-size: 310%;
+    top: 780%;
+    left: 43%;
+    color: #001c64
+}
+
+#mastertext {
+    position: absolute;
+    font-weight: normal;
+    top: 800%;
+    left: 56%
+}
+
+.applynow {
+    position: absolute;
+    height: 45px;
+    width: 150px;
+    top: 820%;
+    margin-left: 55.5%;
+    border-radius: 25px;
+    background-color: #003087;
+    color: white;
+}
+
+.learnmore {
+    position: absolute;
+    width: 150px;
+    top: 822%;
+    font-size: large;
+    margin-left: 66.5%;
+    color: #003087;
+}
+
+.pay {
+    position: relative;
+    margin-top: 3%;
+    margin-left: 50%;
+    height: 550px;
+    max-width: 40%;
+    border-radius: 5%;
+    background-color: #0967c4e4;
+}
+
+
+#extra {
+    color: #001c64;
+    position: absolute;
+    font-weight: bold;
+    font-size: 300%;
+    top: 859%;
+    left: 1%;
+}
+
+#extras {
+    position: absolute;
+    font-weight: normal;
+    top: 888%;
+    left: 14%
+}
+
+#extrass {
+    position: absolute;
+    top: 900%;
+    left: 14%;
+    color: #0967c4e4;
+}
+
+.shop {
+    position: absolute;
+    font-weight: bold;
+    font-size: 180%;
+    max-height: 20%;
+    width: 50rem;
+    font-size: 55%;
+    top: 440rem;
+    left: 11%;
+    color: #001c64
+}
+
+.showwith {
+    top: 25%;
+    position: relative;
+}
+
+
+.walmartlogo {
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 17%;
+    height: 150px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(253, 253, 205);
+    border: 5px white;
+    border-radius: 10%;
+}
+
+.homedepotlogo {
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 37%;
+    height: 150px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(253, 253, 205);
+    border: 5px white;
+    border-radius: 10%;
+}
+
+
+.dickssportinggoodslogo {
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 57%;
+    height: 150px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(253, 253, 205);
+    border: 5px white;
+    border-radius: 10%;
+}
+
+
+.nikelogo {
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 77%;
+    height: 150px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(253, 253, 205);
+    border: 5px white;
+    border-radius: 10%;
+}
+
+.sherinlogo {
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 17%;
+    height: 150px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(253, 253, 205);
+    border: 5px white;
+    border-radius: 10%;
+}
+
+.sonoslogo {
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 37%;
+    height: 150px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(253, 253, 205);
+    border: 5px white;
+    border-radius: 10%;
+}
+
+.bestguylogo {
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 57%;
+    height: 150px;
+    width: 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(253, 253, 205);
+    border: 5px white;
+    border-radius: 10%;
+}
+
+.donation {
+    position: relative;
+    height: 50%;
+    background-color: rgb(253, 253, 205);
+}
+
+.donationlogo {
+    position: absolute;
+    margin-top: 38%;
+    margin-left: 55%;
+    height: 450px;
+    width: 500px;
+    padding: 20px 20px 20px 20px;
+    border: 5px white;
+    border-radius: 10%;
+}
+
+.donationtext {
+    position: absolute;
+    font-weight: normal;
+    margin-top: 45%;
+    margin-left: 14%
+}
+
+.donationtexttwo {
+    position: absolute;
+    font-weight: normal;
+    margin-top: 62%;
+    margin-left: 14%
+}
+
+.donationlink {
+    position: absolute;
+    font-weight: bold;
+    color: #0e7fefec;
+    margin-top: 66%;
+    margin-left: 14%;
+    font-size: 180%;
+}
+
+.powerup {
+    position: relative;
+    height: 50%;
+    background-color: rgb(253, 253, 205);
+}
+
+.powerlogo {
+    position: absolute;
+    margin-top: 75%;
+    margin-left: 12%;
+    height: 320px;
+    width: 500px;
+    padding: 20px 20px 20px 20px;
+    border: 5px white;
+    border-radius: 15%;
+}
+
+.poweruptext {
+    position: absolute;
+    font-weight: bold;
+    font-size: 250%;
+    margin-top: 100%;
+    margin-left: 14%
+}
+
+.poweuptexttwo {
+    position: absolute;
+    font-weight: normal;
+    margin-top: 107%;
+    margin-left: 14%
+}
+
+.poweruplink {
+    position: absolute;
+    font-weight: bold;
+    color: #0e7fefec;
+    margin-top: 113%;
+    margin-left: 14%;
+    font-size: 130%;
+}
+
+
+.nextstep {
+    position: relative;
+    height: 50%;
+    background-color: rgb(253, 253, 205);
+}
+
+.nextlogo {
+    position: absolute;
+    margin-top: 75%;
+    margin-left: 56%;
+    height: 320px;
+    width: 500px;
+    padding: 20px 20px 20px 20px;
+    border: 5px white;
+    border-radius: 15%;
+}
+
+.nextsteptext {
+    position: absolute;
+    font-weight: bold;
+    font-size: 250%;
+    margin-top: 100%;
+    margin-left: 58%
+}
+
+.nextsteptexttwo {
+    position: absolute;
+    font-weight: normal;
+    margin-top: 107%;
+    margin-left: 58%
+}
+
+.nextsteplink {
+    position: absolute;
+    font-weight: bold;
+    color: #0e7fefec;
+    margin-top: 113%;
+    margin-left: 58%;
+    font-size: 130%;
+}
+
+.discover {
+    margin-top: 126%;
+    margin-left: 16%;
+    font-size: 300%;
+    text-align: left;
+}
+
+.shopy {
+    text-decoration: none;
+    position: relative;
+    display: block;
+    border-radius: 1rem;
+    outline: none;
+    z-index: 0;
+    margin-top: 6%;
+    margin-left: 16%;
+}
+
+.Sendandrecievemoney {
+    background-image: url("./images/sendandreceivemoney.svg");
+    background-color: rgb(253, 253, 205);
+    height: 20px;
+    width: 20px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    position: relative;
+    display: block;
+    border-radius: 1rem;
+    outline: none;
+    z-index: 0;
+    left: 25%;
+    padding: 20px 20px 20px 100px;
+    width: 200px;
+    left: 40%;
+    background-size: 70px;
+    height: 40px;
+
+}
+
+
+.Shopandbuy {
+    background-image: url("./images/shopandbuy.svg");
+    background-color: rgb(253, 253, 205);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    position: absolute;
+    display: block;
+    border-radius: 1rem;
+    outline: none;
+    z-index: 0;
+    padding: 20px 20px 20px 100px;
+    width: 200px;
+    background-size: 70px;
+    height: 40px;
+}
+
+.Manageyourmoney {
+    background-image: url("./images/manageyourmoney.svg");
+    background-color: rgb(253, 253, 205);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    position: absolute;
+    display: block;
+    border-radius: 1rem;
+    outline: none;
+    z-index: 0;
+    padding: 20px 20px 20px 100px;
+    background-size: 70px;
+    height: 40px;
+    width: 200px;
+}
+
+.Thepaypalapp {
+    background-size: 70px;
+    background-image: url("./images/paypalapp.svg");
+    background-color: rgb(253, 253, 205);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    position: relative;
+    display: block;
+    border-radius: 1rem;
+    outline: none;
+    z-index: 0;
+    padding: 20px 20px 20px 100px;
+    height: 40px;
+    width: 200px;
+    left: 40%;
+}
+
+.joinpaypal {
+    height: 500px;
+    width: 500;
+    margin-left: 1px;
+    background-color: rgb(253, 253, 205);
+}
+
+.jointext {
+    padding: 40px 20px 20px 40px;
+}
+
+.jointexttwo {
+    position: absolute;
+    font-weight: normal;
+    top: 603rem;
+    left: 16%
+}
+
+.qrcode {
+    position: absolute;
+    margin-top: -18%;
+    margin-left: 65%
+}
+
+.qrcodeone {
+    margin-left: 57%;
+    margin-top: -9%;
+    font-weight: normal;
+}
+
+.paypalinputlast {
+    height: 55px;
+    width: 20%;
+    margin-top: .1%;
+    margin-left: 60%;
+}
+
+.SendLink {
+    position: absolute;
+    height: 48px;
+    font-weight: bold;
+    width: 150px;
+    top: 606rem;
+    left: 65%;
+    border-radius: 25px;
+    background-color: #003087;
+    color: white;
+}
+
+.sendlinkmsg {
+    position: absolute;
+    top: 610rem;
+    left: 60%;
+    text-align: center;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.paypalimage {
+    height: 50px;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.links {
+    margin-top: 2%;
+    margin-left: 14%;
+    padding: 10px 10px 10px 10px;
+}
+
+.Help {
+    padding: 10px;
+    color: #001c64;
+    font-weight: bold;
+}
+
+.hrone {
+    width: 70%;
+}
+
+.linkone {
+    margin-top: 1%;
+    margin-left: 14%;
+    padding: 10px 10px 10px 10px;
+}
+
+.About {
+    padding: 10px;
+    color: #001c64;
+    font-weight: bold;
+}
+
+.footertext {
+    margin-top: 5%;
+    margin-left: 15%
+}
+
+.footertextone {}
