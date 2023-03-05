@@ -17,6 +17,10 @@
     background-color: rgba(177, 177, 177, 0.104);
 }
 
+#header:hover {
+    cursor: pointer;
+}
+
 .shpfav {
     position: relative;
     height: 200px;
@@ -61,31 +65,61 @@ section {
 #p {
     margin-top: -2.2%;
     margin-left: 18%;
-
+    color: #003087;
 }
+
 
 #b {
 
     margin-top: -2.7%;
     margin-left: 26%;
+    color: #003087;
 }
 
 #e {
-
+    color: #003087;
     margin-top: -2.7%;
     margin-left: 34%;
 }
 
 #d {
-
+    color: #003087;
     margin-top: -2.7%;
     margin-left: 43%;
 }
 
 #h {
-
+    color: #003087;
     margin-top: -2.7%;
     margin-left: 65%;
+}
+
+#l {
+    color: #003087;
+    height: 50px;
+    width: 111px;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+
+#s {
+    color: #003087;
+    height: 50px;
+    font-weight:bolder;
+    width: 111px;
+    border-radius: 25px;
+    background-color: #003087;
+    color: white;
+}
+
+#p,
+#b,
+#e,
+#d,
+#h,
+#l,
+#s {
+    cursor: pointer;
 }
 
 .sectiontwo {
@@ -98,19 +132,7 @@ section {
     font-size: normal;
 }
 
-#l {
-    height: 50px;
-    width: 111px;
-    border-radius: 25px;
-}
 
-#s {
-    height: 50px;
-    width: 111px;
-    border-radius: 25px;
-    background-color: #003087;
-    color: white;
-}
 
 h1 {
     font-family: 'Merriweather', serif;
@@ -158,6 +180,9 @@ h1 {
     width: 10%;
     border-radius: 25px;
 }
+.paypalb:hover{
+    cursor: pointer;
+}
 
 .vertical {
     border-left: 1px solid black;
@@ -184,12 +209,14 @@ h1 {
     transform: skew(-10deg);
 }
 
+
 .img {
     margin-top: -12%;
     margin-left: -7%;
     max-height: 38rem;
     max-width: 38rem;
-    transform: skew(10deg);
+    transform: skew(110deg)
+
 
 }
 
@@ -273,7 +300,8 @@ h1 {
     top: 320%;
     left: 1%
 }
-.texttwotext{
+
+.texttwotext {
     height: 50%;
     width: 50%;
 }
@@ -415,6 +443,9 @@ h1 {
     background-color: #003087;
     color: white;
 }
+.applynow:hover{
+    cursor: pointer;
+}
 
 .learnmore {
     position: absolute;
@@ -423,6 +454,9 @@ h1 {
     font-size: large;
     margin-left: 66.5%;
     color: #003087;
+}
+.learnmore:hover{
+    cursor: pointer;
 }
 
 .pay {
@@ -476,6 +510,9 @@ h1 {
     position: relative;
 }
 
+.walmartlogo,.homedepotlogo,.dickssportinggoodslogo,.nikelogo,.sherinlogo,.sonoslogo,.bestguylogo{
+    cursor: pointer;
+}
 
 .walmartlogo {
     position: absolute;
@@ -603,6 +640,10 @@ h1 {
     font-size: 180%;
 }
 
+.donationlink:hover{
+    cursor: pointer;
+}
+
 .powerup {
     position: relative;
     height: 50%;
@@ -644,6 +685,11 @@ h1 {
     font-size: 130%;
 }
 
+.poweruplink:hover{
+    cursor: pointer;
+}
+
+
 
 .nextstep {
     position: relative;
@@ -684,6 +730,10 @@ h1 {
     margin-top: 113%;
     margin-left: 58%;
     font-size: 130%;
+}
+
+.nextsteplink{
+    cursor: pointer;
 }
 
 .discover {
@@ -789,7 +839,7 @@ h1 {
 .jointexttwo {
     position: absolute;
     font-weight: normal;
-    top: 603rem;
+    top: 608rem;
     left: 16%
 }
 
@@ -817,16 +867,25 @@ h1 {
     height: 48px;
     font-weight: bold;
     width: 150px;
-    top: 606rem;
+    top: 610rem;
     left: 65%;
     border-radius: 25px;
     background-color: #003087;
     color: white;
 }
 
+.SendLink:hover{
+    cursor: pointer;
+}
+
+.SendLink:hover {
+    cursor: pointer;
+    background-color: #5384fe;
+}
+
 .sendlinkmsg {
     position: absolute;
-    top: 610rem;
+    top: 613rem;
     left: 60%;
     text-align: center;
     font-weight: normal;
