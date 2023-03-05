@@ -273,11 +273,16 @@ h1 {
     top: 320%;
     left: 1%
 }
+.texttwotext{
+    position:relative;
+    height: 50%;
+    width: 50%;
+}
 
 .texttwo {
     position: absolute;
     font-size: 310%;
-    top: 414%;
+    top: 417%;
     left: 50%
 }
 
